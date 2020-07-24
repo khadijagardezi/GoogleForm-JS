@@ -1,0 +1,43 @@
+.container {
+    margin-top: 20px;
+    border: 1px solid rgb(63, 63, 63);
+    border-radius: 20px;
+    text-align: center;
+    width: 60%;
+    
+    margin-left: 20%;
+}
+
+
+.sign {
+    font-size: x-large;
+    color: black;
+
+}
+.blue {
+    color: rgb(39, 39, 251);
+    margin-left: -250px;
+}
+
+#input {
+    width: 40%;
+    height: 25px;
+}
+.btn {
+    display: flex;
+    padding: 6px;
+    justify-content: center;
+    width: 5rem;
+    height: 2rem;
+    background-color: rgb(39, 39, 251);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.flexbox {
+    display: flex;
+    justify-content: space-evenly;
+}
+.blue-1 {
+    margin-left: 30px;
+}
